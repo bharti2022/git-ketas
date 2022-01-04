@@ -4,7 +4,8 @@ Sometimes we just forget something obvious that we want to fix quickly.
 
 `git commit --amend` allows us to do that - tinker with the last commit we made.
 
-You can use `git log -p` or `git show` to inspect the contents of commits and file changes that were added to the commits.
+You can use `git log -p` or `git show` to inspect the contents of commits 
+and file changes that were added to the commits.
 
 ## Setup:
 
