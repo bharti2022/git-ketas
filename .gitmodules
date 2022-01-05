@@ -1,0 +1,3 @@
+[submodule "submodules/exercise/product/zemoso-training"]
+	path = submodules/exercise/product/zemoso-training
+	url = https://github.com/bharti2022/zemoso-training
